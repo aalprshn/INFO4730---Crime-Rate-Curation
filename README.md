@@ -5,7 +5,7 @@ The dataset contains yearly crime statistics for multiple U.S. jurisdictions, in
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The dataset is divided into four curated time periods:
 
@@ -20,7 +20,7 @@ This structure supports easier access, comparison, and long-term preservation by
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 The purpose of this repository is to:
 
@@ -31,7 +31,7 @@ The purpose of this repository is to:
 
 ---
 
-## 👥 Potential Users
+## Potential Users
 
 - Students analyzing crime trends  
 - Researchers working with historical datasets  
@@ -40,7 +40,7 @@ The purpose of this repository is to:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **GitHub** for preservation, version control, and public access  
 - **CSV format** to ensure long-term usability  
@@ -48,7 +48,7 @@ The purpose of this repository is to:
 
 ---
 
-## 📄 Metadata
+## Metadata
 
 A separate metadata file (metadata.csv) will be added to describe each item, including:
 
@@ -59,14 +59,14 @@ A separate metadata file (metadata.csv) will be added to describe each item, inc
 
 ---
 
-## 🔐 Copyright & Source
+## Copyright & Source
 
 The dataset was sourced from a public crime data file.  
 All organization, categorization, and curation in this repository was performed for academic purposes under INFO 4730.
 
 ---
 
-## 📝 Maintenance Plan
+## Maintenance Plan
 
 Future updates may include:
 
@@ -77,7 +77,7 @@ Future updates may include:
 
 ---
 
-## 📚 Course
+## Course
 
 INFO 4730 – Digital Curation and Preservation  
 University of North Texas  
